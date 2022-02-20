@@ -8,7 +8,7 @@ export default function Header() {
         <Link href="/">
           <a className="flex md:w-1/5 title-font font-medium items-center md:justify-start mb-4 md:mb-0">
             <Image
-              src="/images/footballsupremelogo.jpg"
+              src="/images/fxmaruvalogo.jpg"
               width={40}
               height={40}
               alt="logo"
