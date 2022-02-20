@@ -8,8 +8,8 @@ export default function NotFoundPage() {
       <div className="flex flex-col items-center mt-20">
         <Image
           src="/images/footballsupremelogo.JPG"
-          width={70}
-          height={70}
+          width={200}
+          height={200}
           className="bg-gray-800 rounded-2xl"
         />
 
