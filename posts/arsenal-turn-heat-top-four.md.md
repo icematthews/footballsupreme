@@ -1,8 +1,8 @@
 ---
-title: "Man Utd face a must-win trip to Leeds"
+title: "Arsenal, Spurs turn up the heat on top 4"
 date: "February 20, 2022"
-excerpt: "Arsenal, Spurs turn up the heat on top 4"
-cover_image: "/images/posts/manutdleeds200222.jpg"
+excerpt: "Man Utd face a must-win trip to Leeds"
+cover_image: "/images/posts/arsenaltottenham200222.jpg"
 category: "EPL"
 # author: "Ismaail Matthews"
 # author_image: "/images/authors/mypic.jpg"

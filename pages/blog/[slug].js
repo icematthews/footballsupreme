@@ -19,7 +19,7 @@ export default function PostPage({
           <h1 className="text-5xl mb-7">{title}</h1>
           <CategoryLabel>{category}</CategoryLabel>
         </div>
-        <img src={cover_image} alt="" className="w-full rounded" />
+        {/* <img src={cover_image} alt="" className="w-full rounded" /> */}
 
         {/* <div className='flex justify-between items-center bg-gray-100 p-2 my-8'>
           <div className='flex items-center'>
