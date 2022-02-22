@@ -1,8 +1,8 @@
 ---
-title: "Man Utd sends warning to rivals with triumph over Leeds Utd"
+title: "Man Utd sends warning to rivals with triumph over Leeds"
 date: "February 21, 2022"
 excerpt: "Second-half scare proves much improvement still needed"
-cover_image: "/images/posts/leedsmanutd210222.jpg"
+# cover_image: "/images/posts/leedsmanutd210222.jpg"
 category: "EPL"
 # author: "Ismaail Matthews"
 # author_image: "/images/authors/mypic.jpg"
